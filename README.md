@@ -11,6 +11,15 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 ```markdown
 Syntax highlighted code block
 
+element.style {
+}
+#channel-header.ytd-c4-tabbed-header-renderer {
+    background-color: var(--yt-lightsource-section1-color);
+    width: 100%;
+    padding: 16px 107px 4px;
+    position: relative;
+    z-index: 1;
+    min-width: 0;
 # Header 1
 ## Header 2
 ### Header 3
